@@ -11,4 +11,4 @@ A dashboard for proteomics quality control.
     pip install -e . 
     proteomics_qc_dashboard.py
 
-Then navigate to `localhost:8889` in your browswer.
+Then navigate to `localhost:8889` in your browser.
