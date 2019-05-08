@@ -1,0 +1,23 @@
+rm .localhistory 
+git rm .localhistoryh
+git rm .localhistory
+git rm --cached .localhistory
+git rm --cached *.localhistory
+l
+l
+git pull
+git push
+git pull
+git push 
+git pull
+git pullgit fetch
+git fetch
+git push 
+git pull
+git commit -am ".."
+git pull
+git fetch
+git pull
+git rm .gitignore 
+git rm --cached .gitignore 
+git pull
