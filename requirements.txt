@@ -1,0 +1,12 @@
+name: proteomics_qc_dashboard
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas=0.24.0
+  - pip=18.1
+  - python=3.7.2
+  - pip:
+    - plotly
+    - dash
+
