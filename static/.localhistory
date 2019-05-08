@@ -1,3 +1,0 @@
-md static
-cp /home/swacker/proteomics-pipelines/QC/*csv . 
-l
