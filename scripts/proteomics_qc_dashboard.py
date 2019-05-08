@@ -10,10 +10,9 @@ app.css.config.serve_locally = True
 app.scripts.config.serve_locally = True
 
 app.layout = html.Div(children=[
-    html.H1(children='Hello Dash'),
-
+    html.H1(children='Proteomics QC Dashboard'),
     html.Div(children='''
-        Dash: A web application framework for Python.
+        A dashboard for proteomics quality control.
     '''),
 
     dcc.Graph(
@@ -24,7 +23,7 @@ app.layout = html.Div(children=[
                 {'x': [1, 2, 3], 'y': [2, 4, 5], 'type': 'bar', 'name': u'Montréal'},
             ],
             'layout': {
-                'title': 'Dash Data Visualization'
+                'title': 'Dash Example Data Visualization'
             }
         }
     )
