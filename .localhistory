@@ -4,3 +4,7 @@ md static
 ..
 l
 git add --all 
+git pull origin master
+git push 
+git add -f .gitignore 
+git push 
