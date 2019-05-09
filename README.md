@@ -5,7 +5,7 @@ A dashboard for proteomics quality control.
 
     git clone git@github.com:soerendip/proteomics_qc_dashboard.git 
     cd proteomics_qc_dashboard
-    conda env create -f requirements.txt
+    conda env create -f requirements.yml
     conda activate proteomics_qc_dashboard
 
     pip install -e . 
